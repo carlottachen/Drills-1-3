@@ -1,0 +1,57 @@
+#top-header{
+	height: 8vh;
+	width: 100%;
+	background-color: gray;
+	margin-top: 0;
+	padding: 20px;
+}
+
+#square{
+	height: 75px;
+	width: 75px;
+	background-color: #6495ED;
+}
+
+#white{
+}
+
+p{
+	padding: 60px 40px 60px 40px;
+}
+
+.box{
+	height: 280px;
+	width: 100%;
+}
+
+#blue{
+	background-color: #6495ED;
+}
+
+#green{
+	background-color: #66CDAA;
+}
+
+#lime{
+	background-color: #ACE1AF;
+}
+
+#yellow{
+	background-color: #fada5e;
+}
+
+.question_mark{
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+}
+
+.circle{
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+}
+
